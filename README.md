@@ -1,6 +1,8 @@
 # Cookie Generator
 This project is a tool for generating various types of cookies for web browsers. It allows users to create session cookies, preference cookies, tracking cookies, or mixed cookies with customizable parameters.
 
+![Ekran görüntüsü 2025-04-06 235305](https://github.com/user-attachments/assets/006326f4-77c9-43ae-9652-e4362c6b2ca9)
+
 ## Features
 - Generate different types of cookies (session, preference, tracking, mixed)
 - Specify custom domains or use popular domains from a predefined list
